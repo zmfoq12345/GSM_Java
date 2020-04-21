@@ -5,9 +5,9 @@ public class GSM06 {
         b1.setName("Hyunseung");
         b1.setPrice(24000);
         b1.setPage(500);
-        System.out.println(b1.getTitle());
-        System.out.println(b1.getName());
-        System.out.println(b1.getPrice());
-        System.out.println(b1.getPage());
+        System.out.println(b1);
+
+        BookDTO b2 = new BookDTO("Oracle", "YANG", 3209, 133);
+        System.out.println(b2);
     }
 }

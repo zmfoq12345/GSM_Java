@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d67214-6c46-454f-bf3b-b7244351c92d" name="Default Changelist" comment="" />
+    <list default="true" id="58d67214-6c46-454f-bf3b-b7244351c92d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GSM/BookDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GSM/BookDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GSM/GSM06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GSM/GSM06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GSM/META-INF/GSM.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GSM06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GSM06.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +23,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1aWFZETTo6c0zFEiHAYmhqWuRgu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,14 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GSM06">
-    <configuration name="GSM01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM01" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GSM08">
     <configuration name="GSM03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GSM03" />
       <module name="GSM" />
@@ -57,8 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Start" />
+    <configuration name="GSM07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM07" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GSM08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM08" />
       <module name="GSM" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GSM08" />
+        <item itemvalue="Application.GSM07" />
         <item itemvalue="Application.GSM06" />
         <item itemvalue="Application.GSM05" />
         <item itemvalue="Application.GSM03" />
-        <item itemvalue="Application.GSM01" />
-        <item itemvalue="Application.Start" />
       </list>
     </recent_temporary>
   </component>
@@ -86,5 +102,18 @@
       <updated>1586843496604</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

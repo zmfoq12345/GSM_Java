@@ -23,5 +23,14 @@ public class BookDTO {
     public int getPrice() { return price; }
     public int getPage() { return page; }
 
+    @Override
+    public String toString() {
+        return "BookDTO{" +
+                "title='" + title + '\'' +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", page=" + page +
+                '}';
+    }
 }
 
