@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58d67214-6c46-454f-bf3b-b7244351c92d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GSM09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GSM09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gsm/util/MyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gsm/util/MyUtil.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

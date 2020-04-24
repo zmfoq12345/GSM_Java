@@ -11,8 +11,12 @@ public class MyUtil {
     public static float hap(float a, float b){
         return a+b;
     }
-//
-//    public int hap(String a, String b){
-//
-//    }
+
+
+    /*
+    1. DTO(VO) -> 바구니
+    2. Utility
+    3. DAO -> SQL : CRUD -> JDBC Programming
+    * */
+
 }
