@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="58d67214-6c46-454f-bf3b-b7244351c92d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/MyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gsm/util/MyUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GSM11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GSM11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gsm/util/IntArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gsm.util" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -39,28 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GSM10">
-    <configuration name="GSM06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM06" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GSM07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM07" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GSM08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM08" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GSM13">
     <configuration name="GSM09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GSM09" />
       <module name="GSM" />
@@ -75,13 +60,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GSM11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM11" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GSM12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM12" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GSM13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM13" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GSM13" />
+        <item itemvalue="Application.GSM12" />
+        <item itemvalue="Application.GSM11" />
         <item itemvalue="Application.GSM10" />
         <item itemvalue="Application.GSM09" />
-        <item itemvalue="Application.GSM08" />
-        <item itemvalue="Application.GSM07" />
-        <item itemvalue="Application.GSM06" />
       </list>
     </recent_temporary>
   </component>
