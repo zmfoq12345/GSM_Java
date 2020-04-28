@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58d67214-6c46-454f-bf3b-b7244351c92d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GSM11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GSM11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gsm/util/IntArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GSM13">
-    <configuration name="GSM09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM09" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GSM14">
     <configuration name="GSM10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GSM10" />
       <module name="GSM" />
@@ -81,13 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GSM14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM14" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GSM14" />
         <item itemvalue="Application.GSM13" />
         <item itemvalue="Application.GSM12" />
         <item itemvalue="Application.GSM11" />
         <item itemvalue="Application.GSM10" />
-        <item itemvalue="Application.GSM09" />
       </list>
     </recent_temporary>
   </component>
