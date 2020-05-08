@@ -3,9 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="58d67214-6c46-454f-bf3b-b7244351c92d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gsm/util/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gsm/util/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gsm/util/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/FloatArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/IntArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/MovieArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/MovieVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/util/MyUtil.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
