@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="58d67214-6c46-454f-bf3b-b7244351c92d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/FloatArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/IntArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/MovieArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/MovieVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gsm/util/MyUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GSM18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GSM18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gsm/poly/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gsm/poly/Animal.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,35 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GSM16">
-    <configuration name="GSM12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM12" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GSM13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM13" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GSM14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM14" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GSM15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSM15" />
-      <module name="GSM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GSM23">
     <configuration name="GSM16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GSM16" />
       <module name="GSM" />
@@ -87,13 +53,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GSM20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM20" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GSM21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM21" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GSM22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM22" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GSM23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GSM23" />
+      <module name="GSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GSM23" />
+        <item itemvalue="Application.GSM22" />
+        <item itemvalue="Application.GSM21" />
+        <item itemvalue="Application.GSM20" />
         <item itemvalue="Application.GSM16" />
-        <item itemvalue="Application.GSM15" />
-        <item itemvalue="Application.GSM14" />
-        <item itemvalue="Application.GSM13" />
-        <item itemvalue="Application.GSM12" />
       </list>
     </recent_temporary>
   </component>
