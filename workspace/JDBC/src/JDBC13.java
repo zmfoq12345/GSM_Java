@@ -9,11 +9,16 @@ public class JDBC13 {
         MemberScan ms = new MemberScan();
         MemberDAO dao = new MemberDAO();
 
-        ArrayList<MemberVo> list  = dao.memSelect(ms.scanData("ID"));
+        ArrayList<MemberVo> mv = dao.memSelect(ms.scanData("ID"));
 
-        for (MemberVo i : list){
-            System.out.println(i.toString());
+        if (mv.size() > 0){
+            System.out.println("ID      PW     AGE");
+            System.out.println("--------------------");
+            for (MemberVo i : mv){
+                System.out.println(i.getId() + "   " + i.getPw() + "   " + i.getAge());
+            }
+        }else {
+            System.out.println("데이터가 없습니다!");
         }
-
     }
 }
