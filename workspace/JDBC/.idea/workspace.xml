@@ -2,14 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf381be9-fdc6-4062-b5b2-357c095109f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JDBC12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JDBC13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JDBC" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,15 +43,16 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../lib/ojdbc6.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JDBC13">
+  <component name="RunManager" selected="Application.JDBC12">
     <configuration name="JDBC09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JDBC09" />
       <module name="JDBC" />
@@ -76,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBC13" />
         <item itemvalue="Application.JDBC12" />
+        <item itemvalue="Application.JDBC13" />
         <item itemvalue="Application.JDBC11" />
         <item itemvalue="Application.JDBC10" />
         <item itemvalue="Application.JDBC09" />
@@ -119,6 +133,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="135" key="#JDBC04/0.0.1920.1040@0.0.1920.1040" timestamp="1590042515887" />
+    <state x="0" y="178" width="1092" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590648734824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="178" width="1092" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590648734824" />
     <state x="696" y="102" key="CommitChangelistDialog2" timestamp="1590040971936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,22 +145,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="658" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590042714863" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1590645855600">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1590650098316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590645855600" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1590645855600">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590650098316" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1590650098315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590645855600" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1590645855600">
+    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590650098315" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1590650098315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590645855600" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1590645855600">
+    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590650098315" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1590650098315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590645855600" />
+    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590650098315" />
     <state width="457" height="344" key="GridCell.Tab.1.bottom" timestamp="1590042643641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -159,10 +177,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="457" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590042643641" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1590042717021">
+    <state x="36" y="79" key="SettingsEditor" timestamp="1590648615920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590042717021" />
+    <state x="36" y="79" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590648615920" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1590040983046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -171,6 +189,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590040984328" />
+    <state x="203" y="105" key="new project wizard" timestamp="1590648816801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="203" y="105" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590648816801" />
     <state x="-846" y="250" width="700" height="530" key="recent.locations.popup" timestamp="1590040947447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
