@@ -152,8 +152,7 @@
              Documentation at: /docs/config/valve.html
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
-		<Context docBase="C:\dev\GSM_JAVA\GSM_Java\workspace\ShopERP\webapp" path="/shop"/>
-      <Context docBase="BookERP" path="/bk" reloadable="true" source="org.eclipse.jst.jee.server:BookERP"/></Host>
+        <Context docBase="C:\dev\GSM_JAVA\GSM_Java\workspace\ShopERP\webapp" path="/shop"/><Context docBase="BookERP" path="/bk" reloadable="true" source="org.eclipse.jst.jee.server:BookERP"/></Host>
     </Engine>
   </Service>
 </Server>
