@@ -19,13 +19,17 @@ public class TotalController extends HttpServlet {
 	protected void service(HttpServletRequest req, HttpServletResponse res) 
 			throws ServletException, IOException {
 		
+		int num1 = Integer.parseInt(req.getParameter("num1"));
+		int num2 = Integer.parseInt(req.getParameter("num2"));
+	
 		MyUtil my = new MyUtil();
-		int result = my.totHap();
-
+		int result = my.toCnt(num1, num2);
+		
 		res.setContentType("text/html;charset=euc-kr");
 		PrintWriter out = res.getWriter();
 		out.println("<html><body><pre>");
-		out.println("3209_¾çÇö½Â:"+result);
+		out.println(num1+"~"+num2+"<br>");
+		out.println("3209_¾çÇö½Â:" + result);
 		out.println("</pre></body></html>");
 		out.flush();
 		

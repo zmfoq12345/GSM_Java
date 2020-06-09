@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
 <%
 	int sum = 0;
 	for (int i = 0; i < 10; i++){
@@ -20,6 +19,5 @@
 	<td><%=sum%></td>
 </tr>
 </table>
-
 </body>
 </html>
