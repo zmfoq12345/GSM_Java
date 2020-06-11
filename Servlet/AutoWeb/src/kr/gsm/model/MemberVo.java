@@ -1,12 +1,12 @@
 package kr.gsm.model;
 
-public class MemberVo {
+public class MemberVO {
 
 	private String id;
 	private String pw;
 	private int age;
 	
-	public MemberVo(String id2, String pw2, int age2) {
+	public MemberVO(String id2, String pw2, int age2) {
 		this.id = id2;
 		this.pw = pw2;
 		this.age = age2;
@@ -32,7 +32,7 @@ public class MemberVo {
 
 	@Override
 	public String toString() {
-		return "MemberVo [id=" + id + ", pw=" + pw + ", age=" + age + "]";
+		return "MemberVO [id=" + id + ", pw=" + pw + ", age=" + age + "]";
 	}
 
 }

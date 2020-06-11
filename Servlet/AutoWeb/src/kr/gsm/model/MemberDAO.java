@@ -7,7 +7,7 @@ public class MemberDAO { // MyBatis( java code + sql = XML )
     private Connection conn;
     private PreparedStatement ps;
     private ResultSet rs;
-    private ArrayList<MemberVo> list = new ArrayList<MemberVo>();
+    private ArrayList<MemberVO> list = new ArrayList<MemberVO>();
 
     public Connection getDBConn(){
         String URL = "jdbc:oracle:thin:@127.0.0.1:1521:XE";
@@ -23,7 +23,7 @@ public class MemberDAO { // MyBatis( java code + sql = XML )
         return conn;
     }
 
-    public int memInssert(MemberVo vo){
+    public int memInssert(MemberVO vo){
        conn = getDBConn();
        String SQL = "insert into tblmem values(?,?,?)";
         int cnt = 0;
@@ -41,7 +41,7 @@ public class MemberDAO { // MyBatis( java code + sql = XML )
            return cnt;
        }
     }
-    public int memUpdate(MemberVo vo){
+    public int memUpdate(MemberVO vo){
         conn = getDBConn();
         String SQL = "UPDATE tblmem SET pw = ?, age = ? where id = ?";
         int cnt = 0;
@@ -75,7 +75,7 @@ public class MemberDAO { // MyBatis( java code + sql = XML )
             return cnt;
         }
     }
-    public ArrayList<MemberVo> memSelect(String id){
+    public ArrayList<MemberVO> memSelect(String id){
         conn = getDBConn();
         String SQL = "select * from tblmem where id = ?";
         try {
@@ -84,7 +84,7 @@ public class MemberDAO { // MyBatis( java code + sql = XML )
             rs = ps.executeQuery();
 
             while(rs.next()) {
-                MemberVo vo = new MemberVo(rs.getString("id"), rs.getString("pw"), rs.getInt("age"));
+                MemberVO vo = new MemberVO(rs.getString("id"), rs.getString("pw"), rs.getInt("age"));
                 list.add(vo);
             }
         }catch (Exception e){
@@ -94,9 +94,9 @@ public class MemberDAO { // MyBatis( java code + sql = XML )
             return list;
         }
     }
-    public ArrayList<MemberVo> getAllList(){
+    public ArrayList<MemberVO> getAllList(){
         conn = getDBConn();
-        list = new ArrayList<MemberVo>();
+        list = new ArrayList<MemberVO>();
 //        String SQL = "select * from tblmem";
         // 나이 기준 정렬
         String SQL = "select * from tblmem order by age desc";
@@ -104,7 +104,7 @@ public class MemberDAO { // MyBatis( java code + sql = XML )
             ps = conn.prepareStatement(SQL);
             rs = ps.executeQuery();
             while(rs.next()) {
-                MemberVo vo = new MemberVo(rs.getString("id"), rs.getString("pw"), rs.getInt("age"));
+                MemberVO vo = new MemberVO(rs.getString("id"), rs.getString("pw"), rs.getInt("age"));
                 list.add(vo);
             }
         }catch (Exception e){
