@@ -22,27 +22,7 @@ public class MemberListController extends HttpServlet {
 		MemberDAO dao = new MemberDAO();
 		List<MemberVo> list = dao.getAllList(); 
 		
-		res.setContentType("text/html;charset=euc-kr");
-		PrintWriter out = res.getWriter();
-		out.println("<html><body><pre>");
-		out.println("<h1>회원 목록 리스트</h1>");
-		out.println("<table border = '1' width='300px'>");
-		
-		out.println("<tr>");
-		out.println("<td>ID</td>");
-		out.println("<td>PW</td>");
-		out.println("<td>NAME</td>");
-		out.println("</tr>");
-		for (MemberVo i:list) {
-			out.println("<tr>");
-			out.println("<td>"+i.getId()+"</td>");
-			out.println("<td>"+i.getPw()+"</td>");
-			out.println("<td>"+i.getAge()+"</td>");
-			out.println("</tr>");
-		}
-		out.println("</table>");
-		out.println("</pre></body></html>");
-		out.flush();
+		// View to JSP
 		
 		
 	}
