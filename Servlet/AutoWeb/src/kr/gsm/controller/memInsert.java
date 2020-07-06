@@ -10,14 +10,18 @@ import javax.servlet.http.HttpServletResponse;
 import kr.gsm.model.MemberDAO;
 import kr.gsm.model.MemberVO;
 
-@WebServlet("/memDelete.do")
-public class MemberDelete extends HttpServlet {
+@WebServlet("/memInsert.me")
+public class memInsert extends HttpServlet {
+	@Override
 	protected void service(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		String id = req.getParameter("id");
-	
+		String pw = req.getParameter("pw");
+		int age = Integer.parseInt(req.getParameter("age"));
+		
+		MemberVO vo = new MemberVO(id, pw, age);
 		MemberDAO dao = new MemberDAO();
 		
-		int cnt = dao.memDelete(id);
+		int cnt = dao.memInssert(vo);
 		if (cnt > 0) {
 			res.sendRedirect("list.do");
 		}else {
@@ -25,5 +29,4 @@ public class MemberDelete extends HttpServlet {
 		}
 		
 	}
-
 }

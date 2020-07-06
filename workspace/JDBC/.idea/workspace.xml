@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf381be9-fdc6-4062-b5b2-357c095109f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/6e74902776eb856470019d190474d3de/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/6e74902776eb856470019d190474d3de/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/6e74902776eb856470019d190474d3de/segments_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookERP/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../BookERP/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookERP/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookERP/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/JDBC06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/JDBC06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/JDBC07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/JDBC07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/JDBC08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/JDBC08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/JDBC09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/JDBC09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/JDBC10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/JDBC10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/JDBC11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/JDBC11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/JDBC12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/JDBC12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/JDBC13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/JDBC13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBC/META-INF/JDBC.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Servers/Tomcat v8.5 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Servers/Tomcat v8.5 Server at localhost-config/server.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShopERP/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../ShopERP/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShopERP/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShopERP/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShopERP/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ShopERP/webapp/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="bf381be9-fdc6-4062-b5b2-357c095109f7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,10 +175,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590040984328" />
-    <state x="203" y="105" key="new project wizard" timestamp="1590648816801">
+    <state x="203" y="105" key="new project wizard" timestamp="1591862033351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="203" y="105" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590648816801" />
+    <state x="203" y="105" key="new project wizard/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591862033351" />
     <state x="-846" y="250" width="700" height="530" key="recent.locations.popup" timestamp="1590040947447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
